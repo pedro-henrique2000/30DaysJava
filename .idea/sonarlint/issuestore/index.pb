@@ -13,3 +13,9 @@ I
 src/solutions/Arrays.java,d\e\de29571a8287f95dd300c58b59ced304d51b9044
 M
 src/solutions/Dictionary.java,7\c\7c1344a3a93d49184eb09a981138db70101ae725
+L
+src/solutions/Recursion.java,7\5\7514b5a246257b4f37ff603f9876aaf431c76241
+L
+src/solutions/DataTypes.java,f\8\f88429f0efce713cc8e355b034e1e9c1b2185221
+O
+src/solutions/Conditionals.java,0\3\0374ab34bb1a25bdc3091c6670738bfa45e51864
