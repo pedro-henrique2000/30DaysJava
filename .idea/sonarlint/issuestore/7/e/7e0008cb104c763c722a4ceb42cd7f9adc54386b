@@ -1,0 +1,17 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+S
+java:S1854H"6Remove this useless assignment to local variable "id".(žÈ´Á8ˆ¼±Îæ/
+^
+java:S1854G"<Remove this useless assignment to local variable "lastName".(Ì‘ÚÄûÿÿÿÿ8‰¼±Îæ/
+Z
+java:S1854F"=Remove this useless assignment to local variable "firstName".(Û™ƒù8‰¼±Îæ/
+K
+java:S1481F".Remove this unused "firstName" local variable.(Û™ƒù8¼±Îæ/
+O
+java:S1481G"-Remove this unused "lastName" local variable.(Ì‘ÚÄûÿÿÿÿ8Ž¼±Îæ/
+D
+java:S1481H"'Remove this unused "id" local variable.(žÈ´Á8¼±Îæ/
+X	java:S125P"<This block of commented-out lines of code should be removed.(¾¸Þ8•¼±Îæ/
+s
+java:S1488)"]Immediately return this expression instead of assigning it to the temporary variable "grade".(Ýó¥ó

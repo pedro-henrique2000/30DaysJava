@@ -19,3 +19,9 @@ L
 src/solutions/DataTypes.java,f\8\f88429f0efce713cc8e355b034e1e9c1b2185221
 O
 src/solutions/Conditionals.java,0\3\0374ab34bb1a25bdc3091c6670738bfa45e51864
+N
+src/solutions/Inheritance.java,7\e\7e0008cb104c763c722a4ceb42cd7f9adc54386b
+J
+src/solutions/Array2D.java,6\3\632834a3824bc2782929be9365fdede11fd8b334
+O
+src/solutions/BinaryNumber.java,a\3\a388593e829919d6fb0c35e7ee9f71acdf6339c1
