@@ -10,9 +10,7 @@ public class Scope {
 
         Arrays.sort(ints);
 
-        int maximumDifference  = ints[ints.length - 1] - ints[0];
-
-        return maximumDifference;
+        return ints[ints.length - 1] - ints[0];
     }
 
     public static void main(String[] args) {
