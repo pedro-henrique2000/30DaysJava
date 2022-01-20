@@ -6,8 +6,7 @@ public class Exceptions {
         String s = "123";
 
         try {
-            System.out.println(Integer.parseInt(s))
-            ;
+            System.out.println(Integer.parseInt(s));
         } catch (Exception e) {
             System.out.println("Bad String");
         }
