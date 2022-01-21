@@ -25,3 +25,11 @@ J
 src/solutions/Array2D.java,6\3\632834a3824bc2782929be9365fdede11fd8b334
 O
 src/solutions/BinaryNumber.java,a\3\a388593e829919d6fb0c35e7ee9f71acdf6339c1
+K
+src/solutions/Abstract.java,5\2\52df1271105a707de5059cf6e94964b09c191229
+M
+src/solutions/Exceptions.java,d\e\de57ec01e03f86c46c4eb9d714d91ddcc1da8f2e
+G
+src/solutions/Node.java,b\7\b70b7cb49f0a66eb93110bfccc454510805e4d5c
+H
+src/solutions/Scope.java,2\5\25fe77c29206fbe65ef261272971b84c3b97a5a8
