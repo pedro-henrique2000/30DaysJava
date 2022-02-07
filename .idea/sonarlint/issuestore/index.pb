@@ -37,3 +37,11 @@ J
 src/solutions/Array2D.java,6\3\632834a3824bc2782929be9365fdede11fd8b334
 M
 src/solutions/Dictionary.java,7\c\7c1344a3a93d49184eb09a981138db70101ae725
+T
+$src/solutions/interfac/Solution.java,a\5\a52b18afe51a96b4148aeb268fe3874e56ed46e7
+J
+src/solutions/Sorting.java,9\6\96a53f9f6244bfbc16f983ee83ceec3070f443be
+K
+src/solutions/Generics.java,1\c\1cce07c05c5f9e8d9fa907c9dd2348f6e3bc3b30
+Q
+!src/solutions/three/Solution.java,7\1\71906a198ee547af8f51d2180e19afa888b2d2ae
